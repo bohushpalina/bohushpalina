@@ -16,6 +16,8 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
 * **⟡ Currently cooking...**
 
+[![TextModel](https://img.shields.io/badge/Project_Name-FFC0CB?style=flat&logo=github&logoColor=black)]([https://github.com/bohushpalina/TextModel](https://github.com/bohushpalina/TextModel))
+
 </details>
 
 <details open>
