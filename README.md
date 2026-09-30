@@ -10,6 +10,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 <details open>
 <summary><b>Java & Backend Development</b></summary>
 
+* **[JAVA-Web-Application](https://github.com/bohushpalina/JAVA-Web-Application)** — Java and Spring Boot web application using Thymeleaf and JDBC for browsing, filtering, and displaying hockey player profiles and career history from an SQLite database.
 * **[FoodNetRMI](https://github.com/bohushpalina/FoodNetRMI)** — Distributed client-server food ordering system implemented in Java using Remote Method Invocation (Java RMI) and object serialization.
 * **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)** — Multithreaded seaport simulation in Java demonstrating concurrent resource allocation, berth synchronization via Semaphore and ReentrantLock, and thread-safe warehouse operations using Condition variables.
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
