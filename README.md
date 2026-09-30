@@ -45,10 +45,17 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 </details>
 
 <details open>
+<summary><b>Data Analysis & Machine Learning</b></summary>
+
+* **[Data-Analysis-Projects](https://github.com/bohushpalina/Data-Analysis-Projects)** — Interactive Jupyter Notebooks covering exploratory data analysis (EDA), statistical analysis, and data visualization.
+* **[Algebra-and-Number-Theory](https://github.com/bohushpalina/Algebra-and-Number-Theory)** — Mathematical derivation and Python implementations (NumPy) of Linear Regression via OLS normal equations and Gradient Descent.
+
+</details>
+
+<details open>
 <summary><b>Algorithms & Data Structures</b></summary>
 
 * **[Algorithms-and-data-structures](https://github.com/bohushpalina/Algorithms-and-data-structures)** — Educational Java implementations of core algorithms (Graph Theory, Dynamic Programming, Search Trees, Advanced Data Structures) from BSU coursework.
-* **[Algebra-and-Number-Theory](https://github.com/bohushpalina/Algebra-and-Number-Theory)** — Mathematical derivation and Python implementations (NumPy) of Linear Regression via OLS normal equations and Gradient Descent.
 
 </details>
 
