@@ -1,4 +1,4 @@
-# Hi, I'm Polina
+# ⟡ Hi, I'm Polina
 
 Applied Informatics Student at FAMCS BSU (Faculty of Applied Mathematics and Computer Science).
 Focusing on Backend Development, Computer Graphics, Software Systems, and Applied Mathematics.
