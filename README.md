@@ -56,8 +56,6 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 
 ### Tech Stack
 
-### Tech Stack
-
 * **Languages:** Java, Python, C++, C, JavaScript (ES6+), SQL, HTML5, CSS3
 * **Backend & Web:** Spring Boot, Django, Flask, Node.js, Express.js, Socket.IO (WebSockets), Java Servlets, RMI, REST APIs
 * **Desktop & GUI:** PyQt (PyQt5 / PyQt6), PySide6, QML, Qt 6 (C++), Tkinter
