@@ -10,7 +10,6 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 <details open>
 <summary><b>Java & Backend Development</b></summary>
 
-* **[Servlets](https://github.com/bohushpalina/Servlets)**
 * **[FoodNetRMI](https://github.com/bohushpalina/FoodNetRMI)**
 * **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)**
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
