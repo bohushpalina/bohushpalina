@@ -10,8 +10,8 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 <details open>
 <summary><b>Java & Backend Development</b></summary>
 
-* **[FoodNetRMI](https://github.com/bohushpalina/FoodNetRMI)**
-* **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)**
+* **[FoodNetRMI](https://github.com/bohushpalina/FoodNetRMI)** — Distributed client-server food ordering system implemented in Java using Remote Method Invocation (Java RMI) and object serialization.
+* **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)** — Multithreaded seaport simulation in Java demonstrating concurrent resource allocation, berth synchronization via Semaphore and ReentrantLock, and thread-safe warehouse operations using Condition variables.
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
 
 </details>
