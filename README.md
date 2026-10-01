@@ -53,6 +53,13 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[Data-Analysis-Projects](https://github.com/bohushpalina/Data-Analysis-Projects)** — Interactive Jupyter Notebooks covering exploratory data analysis (EDA), statistical analysis, and data visualization.
 * **[Algebra-and-Number-Theory](https://github.com/bohushpalina/Algebra-and-Number-Theory)** — Mathematical derivation and Python implementations (NumPy) of Linear Regression via OLS normal equations and Gradient Descent.
 
+<details open>
+<summary><b>Mathematical Modeling</b></summary>
+
+* **[Mathematical-modeling](https://github.com/bohushpalina/Mathematical-modeling)** — Laboratory works in mathematical modeling covering pseudorandom number generation, statistical testing, and numerical analysis.
+
+</details>
+
 </details>
 
 <details open>
