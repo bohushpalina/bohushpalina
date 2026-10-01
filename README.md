@@ -43,8 +43,8 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 <summary><b>Web Development</b></summary>
 
 * **[WebSocket-Chat-And-Site](https://github.com/bohushpalina/WebSocket-Chat-And-Site)** — Web platform combining a JSON-backed periodical publications archive with real-time, role-based editorial chat rooms built with Node.js, Express, and Socket.IO.
+* **[Library-project](https://github.com/bohushpalina/Library-project)** — A responsive Angular book library with Firebase Cloud Firestore, CRUD operations, and adaptive desktop/mobile UI.  
 
-**⟡ Currently cooking...**
 </details>
 
 <details open>
