@@ -22,7 +22,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 <details open>
 <summary><b>Python Applications & Pet Projects</b></summary>
 
-* **⟡ Currently cooking ->** **[NeuroSync](https://github.com/your-username/NeuroSync)** — Personal desktop assistant suite and system widgets built with PyQt6.
+* **[NeuroSync 2.0](https://github.com/bohushpalina/NeuroSync-2.0)** — Personal desktop assistant suite and system widgets built with PyQt6.
 * **[FAMCS-game](https://github.com/bohushpalina/FAMCS-game)** — An interactive text quest and puzzle desktop game built with Python, PyQt5, and QMediaPlayer, set in a FAMCS BSU environment.
 * **[FoxyPlanner](https://github.com/bohushpalina/FoxyPlanner)** — a Django-based web application for managing personal events, schedules, and tasks with full CRUD functionality and user authentication.
 
