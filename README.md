@@ -15,8 +15,6 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)** — Multithreaded seaport simulation in Java demonstrating concurrent resource allocation, berth synchronization via Semaphore and ReentrantLock, and thread-safe warehouse operations using Condition variables.
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
 
-**⟡ Currently cooking...**
-
 </details>
 
 <details open>
