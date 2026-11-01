@@ -72,9 +72,11 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 
 ### Tech Stack
 
-* **Languages:** Java, Python, C++, C, JavaScript (ES6+), SQL, HTML5, CSS3
+* **Languages:** Java, Python, C++, C, JavaScript (ES6+), SQL, JPQL, HTML5, CSS3
 * **Backend & Web:** Spring Boot, Django, Flask, Node.js, Express.js, Socket.IO (WebSockets), Java Servlets, RMI, REST APIs
+* **Persistence & ORM:** JPA (Jakarta Persistence), EclipseLink, Criteria API, JPA Metamodel, JDBC, HikariCP, Custom Connection Pooling, DAO Pattern
+* **Concurrency & Core Java:** java.util.concurrent (BlockingQueue, Atomic variables, ExecutorService), Dynamic Proxy (Reflection API)
 * **Desktop & GUI:** PyQt (PyQt5 / PyQt6), PySide6, QML, Qt 6 (C++), Tkinter
 * **Computer Graphics & Data Processing:** OpenCV, NumPy, Matplotlib, Pillow (PIL)
-* **Databases & Storage:** PostgreSQL, SQLite3, JSON Storage
-* **DevOps, Build & Testing Tools:** Git, Docker, Maven, PyInstaller, Log4j2, JUnit
+* **Databases & Storage:** MySQL, PostgreSQL, SQLite3, JSON Storage
+* **DevOps, Build & Testing Tools:** Git, Docker, Maven, PyInstaller, Log4j2, SLF4J, JUnit
