@@ -14,9 +14,9 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[FoodNetRMI](https://github.com/bohushpalina/FoodNetRMI)** — Distributed client-server food ordering system implemented in Java using Remote Method Invocation (Java RMI) and object serialization.
 * **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)** — Multithreaded seaport simulation in Java demonstrating concurrent resource allocation, berth synchronization via Semaphore and ReentrantLock, and thread-safe warehouse operations using Condition variables.
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
+* **[Library-JPA](https://github.com/bohushpalina/Library-JPA)** — Java console library app using Jakarta Persistence API with EclipseLink, one-to-many and many-to-many entity relations, DAO-based MySQL access, and dynamic type-safe Criteria API and Metamodel queries.
 * **[Library-JDBC-Connection-Pool](https://github.com/bohushpalina/Library-JDBC-Connection-Pool)** — Java console library app with a custom thread-safe JDBC connection pool, HikariCP support, and DAO-based MySQL access.
 </details>
-* **[Library-JPA](https://github.com/bohushpalina/Library-JPA)**: Java console library app using Jakarta Persistence API with EclipseLink, one-to-many and many-to-many entity relations, DAO-based MySQL access, and dynamic type-safe Criteria API and Metamodel queries.
 
 <details open>
 <summary><b>Python Applications & Pet Projects</b></summary>
