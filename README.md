@@ -6,6 +6,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 ---
 
 ### Featured Projects & Categories
+*In progress: webservice_library, lab5_web*
 
 <details open>
 <summary><b>Java & Backend Development</b></summary>
@@ -17,6 +18,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[Library-JPA](https://github.com/bohushpalina/Library-JPA)** — Java console library app using Jakarta Persistence API with EclipseLink, one-to-many and many-to-many entity relations, DAO-based MySQL access, and dynamic type-safe Criteria API and Metamodel queries.
 * **[Library-JDBC-Connection-Pool](https://github.com/bohushpalina/Library-JDBC-Connection-Pool)** — Java console library app with a custom thread-safe JDBC connection pool, HikariCP support, and DAO-based MySQL access.
 </details>
+
 
 <details open>
 <summary><b>Python Applications & Pet Projects</b></summary>
