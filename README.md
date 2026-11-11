@@ -6,8 +6,8 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 ---
 
 ### Featured Projects & Categories
-*In progress: webservice_library, lab5_web*
-*New repository with Computer networks, Database management systems labs*
+*In progress: webservice_library, lab5_web*   
+*New repositories with Computer networks, Database management systems labs*
 
 <details open>
 <summary><b>Java & Backend Development</b></summary>
