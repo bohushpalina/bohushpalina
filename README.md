@@ -6,7 +6,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 ---
 
 ### Featured Projects & Categories
-*In progress: webservice_library, lab5_web*   
+*In progress: webservice_library, lab5_web updates*   
 *New repositories with Computer networks, Database management systems labs*
 
 <details open>
@@ -17,6 +17,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[Multithreading-project](https://github.com/bohushpalina/Multithreading-project)** — Multithreaded seaport simulation in Java demonstrating concurrent resource allocation, berth synchronization via Semaphore and ReentrantLock, and thread-safe warehouse operations using Condition variables.
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
 * **[Library-JPA](https://github.com/bohushpalina/Library-JPA)** — Java console library app using Jakarta Persistence API with EclipseLink, one-to-many and many-to-many entity relations, DAO-based MySQL access, and dynamic type-safe Criteria API and Metamodel queries.
+* **[Library-Servlet-Thymeleaf](https://github.com/bohushpalina/Library-Servlet-Thymeleaf)** — Java web app with a single front controller servlet, command-based controllers, Thymeleaf server-side templates, session and cookie visit tracking, and a JPA DAO layer for MySQL.
 * **[Library-JDBC-Connection-Pool](https://github.com/bohushpalina/Library-JDBC-Connection-Pool)** — Java console library app with a custom thread-safe JDBC connection pool, HikariCP support, and DAO-based MySQL access.
 </details>
 
