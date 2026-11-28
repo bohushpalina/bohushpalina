@@ -18,6 +18,7 @@ Focusing on Backend Development, Computer Graphics, Software Systems, and Applie
 * **[TextModel](https://github.com/bohushpalina/TextModel)** — Java-based text parsing engine utilizing Composite and Chain of Responsibility design patterns to decompose text into hierarchical object structures.
 * **[Library-JPA](https://github.com/bohushpalina/Library-JPA)** — Java console library app using Jakarta Persistence API with EclipseLink, one-to-many and many-to-many entity relations, DAO-based MySQL access, and dynamic type-safe Criteria API and Metamodel queries.
 * **[Library-Servlet-Thymeleaf](https://github.com/bohushpalina/Library-Servlet-Thymeleaf)** — Java web app with a single front controller servlet, command-based controllers, Thymeleaf server-side templates, session and cookie visit tracking, and a JPA DAO layer for MySQL.
+* **[Library-Servlet-Thymeleaf-Filters](https://github.com/bohushpalina/Library-Servlet-Thymeleaf-Filters)** — Extends the library web app with a servlet filter chain (encoding, logging, authentication, authorization), user registration and login, role-based access (GUEST, USER, ADMIN) with commands grouped by access level, and SLF4J + Log4j2 logging of requests and security events.
 * **[Library-JDBC-Connection-Pool](https://github.com/bohushpalina/Library-JDBC-Connection-Pool)** — Java console library app with a custom thread-safe JDBC connection pool, HikariCP support, and DAO-based MySQL access.
 </details>
 
